@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Ticket_System.Models.bug_report>
+
+<div class="container-fluid px-4">
+    <h1 class="mt-4">@ViewData["Page_Name"]</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item active"><a href="https://">新增</a></li>
+    </ol>
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-table me-1"></i>
+            @ViewData["DataTable_Name"]
+        </div>
+        <div class="card-body">
+            <table id="datatablesSimple">
+                <thead>
+                    <tr>
+                        <th>功能</th>
+                        <th>標題</th>
+                        <th>處理狀態</th>
+                        <th>優先度</th>
+                        <th>新增者</th>
+                        <th>處理人員</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>功能</th>
+                        <th>標題</th>
+                        <th>處理狀態</th>
+                        <th>優先度</th>
+                        <th>新增者</th>
+                        <th>處理人員</th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td><a href="https://">編輯 </a><a href="https://"> 刪除</a></td>
+                            <td>@item.name</td>
+                            <td>@item.state</td>
+                            <td>@item.priority</td>
+                            <td>@item.add_user</td>
+                            <td>@item.finish</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script src="~/js/script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest" crossorigin="anonymous"></script>
+    <script src="~/js/datatables-simple-demo.js"></script>
+}

@@ -1,0 +1,29 @@
+D:\GitHub\Ticket System\Ticket System\bin\Debug\netcoreapp2.1\Ticket System.deps.json
+D:\GitHub\Ticket System\Ticket System\bin\Debug\netcoreapp2.1\Ticket System.runtimeconfig.json
+D:\GitHub\Ticket System\Ticket System\bin\Debug\netcoreapp2.1\Ticket System.runtimeconfig.dev.json
+D:\GitHub\Ticket System\Ticket System\bin\Debug\netcoreapp2.1\Ticket System.dll
+D:\GitHub\Ticket System\Ticket System\bin\Debug\netcoreapp2.1\Ticket System.pdb
+D:\GitHub\Ticket System\Ticket System\bin\Debug\netcoreapp2.1\Ticket System.Views.dll
+D:\GitHub\Ticket System\Ticket System\bin\Debug\netcoreapp2.1\Ticket System.Views.pdb
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.csprojAssemblyReference.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.csproj.CoreCompileInputs.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.RazorAssemblyInfo.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.RazorAssemblyInfo.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.AssemblyInfoInputs.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.AssemblyInfo.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.TagHelpers.input.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.TagHelpers.output.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.RazorCoreGenerate.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.RazorTargetAssemblyInfo.cache
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.RazorTargetAssemblyInfo.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.Views.pdb
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.dll
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.pdb
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Ticket System.csproj.CopyComplete
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\GitHub\Ticket System\Ticket System\obj\Debug\netcoreapp2.1\Razor\Views\BUG\Index.g.cshtml.cs
